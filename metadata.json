@@ -1,0 +1,6 @@
+{
+  "name": "سند — إدارة مبيعات ومخزون اللايف والمحل",
+  "description": "منظومة متكاملة لإدارة مبيعات المحل وحجوزات التيك توك لايف، الجرد، التقفيل اليومي، والتجهيز والشحن مع مزامنة جوجل شيتس",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
